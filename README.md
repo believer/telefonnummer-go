@@ -8,7 +8,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/believer/telefonnummer"
+	"github.com/believer/telefonnummer-go"
 )
 
 func main() {
